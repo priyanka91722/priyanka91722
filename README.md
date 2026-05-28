@@ -7,9 +7,9 @@
 </p>
 
 <p align="left">
-  ```html
+  
 <img src="https://komarev.com/ghpvc/?username=priyanka91722&label=Profile%20views&color=32CD32&style=flat" alt="priyanka91722" />
-```
+
 </p>
 
 ---
@@ -143,7 +143,6 @@
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/priyanka91722/priyanka91722/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 💡 Open To
@@ -154,16 +153,4 @@
 - Internship Opportunities
 - Learning Opportunities
 
----
 
-## ✨ Developer Mindset
-
-> "I enjoy building real-world solutions, learning by creating, and turning ideas into functional products."
-
----
-
-## ☕ Random Dev Stuff
-
-- Debugging fixes my character development daily
-- I build first and optimize later
-```
