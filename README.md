@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Building+Something" />
 </p>
 
-<p align="left">
+<p align="center">
   
 <img src="https://komarev.com/ghpvc/?username=priyanka91722&label=Profile%20views&color=32CD32&style=flat" alt="priyanka91722" />
 
