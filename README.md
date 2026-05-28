@@ -117,16 +117,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanka91722&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanka91722&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka91722&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -137,11 +130,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/priyanka91722/priyanka91722/blob/output/github-contribution-grid-snake.svg)
----
-
 ## 💡 Open To
 
 - Open Source Collaborations
@@ -149,5 +137,3 @@
 - Full Stack Projects
 - Internship Opportunities
 - Learning Opportunities
-
-
