@@ -3,11 +3,13 @@
 <h3 align="center">Full Stack Developer | Building impactful projects one commit at a time 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Flutter+Learner;Open+Source+Contributor;Always+Building+Something+Cool" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Building+Something" />
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=priyanka91722&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka91722" />
+  ```html
+<img src="https://komarev.com/ghpvc/?username=priyanka91722&label=Profile%20views&color=32CD32&style=flat" alt="priyanka91722" />
+```
 </p>
 
 ---
