@@ -37,22 +37,18 @@
 
 ## 🌟 Featured Projects
 
-### 🧠 ALMATH – AI Math Chatbot
-- Built using Flask, PHP, and MySQL
-- Solves mathematical queries interactively
-- Uses AI/NLP concepts for enhanced responses
+<p align="center">
 
-### 📧 Smart Email Assistant
-- Spring Boot + Gemini API based assistant
-- Generates professional email replies instantly
-- REST API integrated backend
+<a href="https://github.com/priyanka91722/StoreIt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanka91722&repo=StoreIt&theme=tokyonight" />
+</a>
 
-### ♻️ Circular Cart
-- Sustainability-focused reward system
-- Users earn GreenPoints through recycling
-- Focused on circular economy concepts
+<a href="https://github.com/priyanka91722/Amazon-Clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanka91722&repo=Amazon-Clone&theme=tokyonight" />
+</a>
 
----
+</p>
+```
 
 ## 🌐 Connect With Me
 
@@ -118,18 +114,19 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanka91722&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanka91722&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka91722&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanka91722&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka91722&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka91722&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
