@@ -11,12 +11,11 @@
 ## 🚀 About Me
 
 - 🔭 Currently building **scalable Full Stack and AI-powered applications**
-- 🌱 Exploring **Flutter, Spring Boot, Microservices, and Cloud Technologies**
+- 🌱 Exploring **Spring Boot, Microservices, and Cloud Technologies**
 - 👯 Open to collaborating on **Open Source and impactful real-world projects**
 - 🤝 Interested in solving **frontend/backend debugging and architecture challenges**
 - 💬 Ask me about **Frontend Development, React, JavaScript, and UI Engineering**
 - 📫 Reach me at **priyankachavan220406@gmail.com**
-- ⚡ Fun fact: **I love shipping products fast and refining every tiny detail later**
 
 ---
 
@@ -24,7 +23,6 @@
 
 - 🤖 AI-powered Smart Email Assistant using Spring Boot & Gemini API
 - 🌐 Scalable Full Stack Web Applications
-- 📱 Cross-platform mobile apps with Flutter
 - ☁️ Exploring Cloud, Microservices, and System Design concepts
 - 🚀 Continuously improving through real-world development projects
 
