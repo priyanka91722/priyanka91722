@@ -82,11 +82,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-[![Priyanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanka91722&theme=tokyo-night)](https://github.com/priyanka91722)
-
----
 
 ## 💡 Open To
 
