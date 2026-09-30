@@ -8,26 +8,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Currently building **scalable Full Stack and AI-powered applications**
-- 🌱 Exploring **Spring Boot, Microservices, and Cloud Technologies**
-- 👯 Open to collaborating on **Open Source and impactful real-world projects**
-- 🤝 Interested in solving **frontend/backend debugging and architecture challenges**
-- 💬 Ask me about **Frontend Development, React, JavaScript, and UI Engineering**
-- 📫 Reach me at **priyankachavan220406@gmail.com**
-
----
-
-## 🚀 Currently Building
-
-- 🤖 AI-powered Smart Email Assistant using Spring Boot & Gemini API
-- 🌐 Scalable Full Stack Web Applications
-- ☁️ Exploring Cloud, Microservices, and System Design concepts
-- 🚀 Continuously improving through real-world development projects
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
